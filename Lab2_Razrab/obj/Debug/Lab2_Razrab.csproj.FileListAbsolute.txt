@@ -8,3 +8,14 @@ D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.csp
 D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.CoreCompileInputs.cache
 D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.exe
 D:\GitHub\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\Lab2_Razrab\obj\Debug\Lab2_Razrab.pdb
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\bin\Debug\Lab2_Razrab.exe.config
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\bin\Debug\Lab2_Razrab.exe
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\bin\Debug\Lab2_Razrab.pdb
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.AssemblyReference.cache
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.SuggestedBindingRedirects.cache
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.Form1.resources
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.Properties.Resources.resources
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.GenerateResource.cache
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.csproj.CoreCompileInputs.cache
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.exe
+D:\GitBush\BEIS_20_Ivanov_Lab_2\Lab2_Razrab\obj\Debug\Lab2_Razrab.pdb
