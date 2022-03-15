@@ -18,7 +18,7 @@ namespace Lab2_Razrab
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            double a = Double.Parse(textBox1.Text);
+            double a = Int32.Parse(textBox1.Text);
             double b = Double.Parse(textBox2.Text);
             textBox3.Text = Convert.ToString(a + b);
 
